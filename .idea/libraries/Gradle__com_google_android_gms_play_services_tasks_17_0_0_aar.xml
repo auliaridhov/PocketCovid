@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/7eb184e85ac8bb169bb26e1f9a97bb25/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/7eb184e85ac8bb169bb26e1f9a97bb25/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/7eb184e85ac8bb169bb26e1f9a97bb25/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/76f79d0d4bfc78712af6e40dcdb7ac8f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/76f79d0d4bfc78712af6e40dcdb7ac8f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/76f79d0d4bfc78712af6e40dcdb7ac8f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/92e31b6b05bd6efb0d4aa729fd1300b4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/92e31b6b05bd6efb0d4aa729fd1300b4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/92e31b6b05bd6efb0d4aa729fd1300b4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

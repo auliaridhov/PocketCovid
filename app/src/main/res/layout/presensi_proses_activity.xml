@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="#f8f8f8"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:background="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txtTopStatus"
+            android:textColor="@color/colorBlack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sedang Proses...."
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"/>
+    </LinearLayout>
+
+    <com.skyfishjy.library.RippleBackground
+        android:visibility="visible"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/content"
+        app:rb_color="#de3333"
+        app:rb_radius="32dp"
+        app:rb_rippleAmount="4"
+        app:rb_duration="3000"
+        app:rb_scale="6">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_centerInParent="true"
+                android:id="@+id/centerImage"
+                android:src="#E68383"
+                app:civ_border_color="@color/colorWhite"
+                app:civ_border_width="0dp"/>
+        </RelativeLayout>
+    </com.skyfishjy.library.RippleBackground>
+
+    <LinearLayout
+        android:id="@+id/linStatus"
+        android:visibility="visible"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:id="@+id/centerImageStatus"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_presensi_succes" />
+            <LinearLayout
+                android:layout_below="@+id/centerImageStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical"
+                android:background="@color/colorWhite">
+                <TextView
+                    android:textColor="@color/colorBlack"
+                    android:layout_marginBottom="10dp"
+                    android:id="@+id/txtStatusPresensi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:text="Presensi Berhasil Dilakukan..." />
+                <TextView
+                    android:id="@+id/txtStatusDeskripsi"
+                    android:gravity="center"
+                    android:layout_marginBottom="3dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Presensi..."/>
+                <Button
+                    android:id="@+id/buttonOkay"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:text="OK"
+                    android:textColor="#fff"
+                    android:textSize="13pt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_presensi_red"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

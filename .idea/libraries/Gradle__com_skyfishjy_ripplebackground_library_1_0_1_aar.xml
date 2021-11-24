@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.skyfishjy.ripplebackground:library:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/b55949ac42a8b40987964b598eabcd20/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/b55949ac42a8b40987964b598eabcd20/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/b55949ac42a8b40987964b598eabcd20/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/a818011b3eb5e189db81f949d1c3aa0b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/a818011b3eb5e189db81f949d1c3aa0b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/a818011b3eb5e189db81f949d1c3aa0b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6ed1dff4d89c05dd7e10c46cfc2bccc5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6ed1dff4d89c05dd7e10c46cfc2bccc5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6ed1dff4d89c05dd7e10c46cfc2bccc5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.skyfishjy.ripplebackground/library/1.0.1/95704f911824a114f450f4a143f2d755fc95eb6c/library-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.skyfishjy.ripplebackground/library/1.0.1/5dcc73905021c28c8bdf030c243f5d5543988e0e/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

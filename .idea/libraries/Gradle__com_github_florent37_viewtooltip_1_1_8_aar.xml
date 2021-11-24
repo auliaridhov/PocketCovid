@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:viewtooltip:1.1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/84986332f80204303cce6a2972427c61/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/84986332f80204303cce6a2972427c61/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/e13dce40954c6ec162ca480a6587c878/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/e13dce40954c6ec162ca480a6587c878/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/e13dce40954c6ec162ca480a6587c878/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/feb5cdecf669974f5e189351f5c4ef75/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/feb5cdecf669974f5e189351f5c4ef75/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/feb5cdecf669974f5e189351f5c4ef75/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/c494303e2af17c3eb0045b8ff6b5f682/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/c494303e2af17c3eb0045b8ff6b5f682/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/c494303e2af17c3eb0045b8ff6b5f682/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/1ed6cdbc1f9b439a73828752835d6f73/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/1ed6cdbc1f9b439a73828752835d6f73/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-viewtooltip-1.1.8.aar/1ed6cdbc1f9b439a73828752835d6f73/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/viewtooltip/1.1.8/fc7567cbc35251624607c2c529ec10cc8df2f26b/viewtooltip-1.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

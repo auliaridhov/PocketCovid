@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/bottom_sheet"
+    android:layout_gravity="center|bottom"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:paddingBottom="20dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:src="@drawable/ic_indicator"/>
+        <RelativeLayout
+            android:layout_marginTop="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_centerVertical="true"
+                android:id="@+id/imgLocation"
+                android:layout_weight="0.1"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_location_red"
+                android:adjustViewBounds="true"/>
+            <LinearLayout
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_toRightOf="@id/imgLocation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/txtLocation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Bandar Lampung"
+                    android:textSize="12dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"/>
+                <TextView
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/txtAlamat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Jalan Pangeran Antasari No. 34"
+                    android:textSize="10dp"
+                    android:textColor="@color/colorAccent"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Spinner
+                android:id="@+id/spinerPresensi"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ellipsize="marquee"
+                android:textSize="10sp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="#808080"
+                android:background="@drawable/ic_combo"/>
+            <Button
+                style="?android:attr/borderlessButtonStyle"
+                android:id="@+id/btnProses"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@drawable/btn_presensi_blue"
+                android:text="Proses Presensi"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorBlue"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+

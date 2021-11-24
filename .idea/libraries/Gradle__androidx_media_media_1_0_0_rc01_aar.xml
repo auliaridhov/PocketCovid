@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.0.0-rc01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/24fc6702721796c7b161e4b462ca3b77/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/6b2e10e1f4c6605cf3fd586869f0417a/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/5a746ad2176077bb4ad991da9b747b31/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/24fc6702721796c7b161e4b462ca3b77/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/24fc6702721796c7b161e4b462ca3b77/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/24fc6702721796c7b161e4b462ca3b77/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/6b2e10e1f4c6605cf3fd586869f0417a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/6b2e10e1f4c6605cf3fd586869f0417a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/6b2e10e1f4c6605cf3fd586869f0417a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/5a746ad2176077bb4ad991da9b747b31/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/5a746ad2176077bb4ad991da9b747b31/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/5a746ad2176077bb4ad991da9b747b31/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.0-rc01/144eb2a5d5cfd745daaea88781ca91ec0c3fafd4/media-1.0.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
